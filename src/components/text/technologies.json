@@ -1,0 +1,10 @@
+{
+  "collectionName": "components_text_technologies",
+  "info": {
+    "displayName": "technologies",
+    "icon": "manyToMany"
+  },
+  "options": {},
+  "attributes": {},
+  "config": {}
+}

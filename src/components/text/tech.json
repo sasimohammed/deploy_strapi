@@ -1,0 +1,10 @@
+{
+  "collectionName": "components_text_teches",
+  "info": {
+    "displayName": "tech",
+    "icon": "manyToMany"
+  },
+  "options": {},
+  "attributes": {},
+  "config": {}
+}
